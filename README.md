@@ -2,6 +2,9 @@
 
 CryptoScope is a real-time cryptocurrency tracking and visualization tool powered by the Gemini 2.0 API and Streamlit. Designed for simplicity and efficiency, CryptoScope offers live updates on market metrics like bid/ask prices, last traded values, and trading volumes, with interactive visualizations to make crypto market analysis accessible and actionable.
 
+![image](https://github.com/user-attachments/assets/dab12221-6498-4d07-a17d-1dfc04452bfa)
+
+
 ## Features
 
 - **Live Updates**: Fetches and displays real-time market data every 5 seconds
